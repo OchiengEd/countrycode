@@ -10,4 +10,6 @@ Application takes a countries name and returns a two-digit alpha2 country name b
 
 ## API Requests
 /country/<country-name> returns the alpha2 code for the country specified
-/trivia returns alpha2 code of a random country which will be used for a quiz
+/trivia returns alpha2 code of a random country which will be used for the trivia
+
+Something random for testing
